@@ -1,4 +1,3 @@
-📌 Descripción
 Base de datos relacional para analizar el desempeño de equipos en el campeonato uruguayo de rugby. Gestiona equipos, jugadores, partidos, estadios y resultados con funcionalidades avanzadas de SQL.
 
 🔍 Características Principales
